@@ -1,0 +1,52 @@
+body{
+    overflow-x: hidden;
+    background-image: url(./images/shooting-star-2024127_1280.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+#city1{
+    font-size: 3rem;
+}
+#temp{
+    font-size: 3rem;
+    padding-bottom: 2rem;
+}
+
+#feel1{
+    font-size: 1rem;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+ 
+#hl{
+    justify-content: end;
+}
+
+.col-cont{
+    margin-top:5rem;
+}
+.container{
+    background:rgba(230, 229, 229, 0.1);
+    backdrop-filter: blur(40px);
+    padding: 20px;
+    border-radius: 16px;
+    color: #fcfafa;
+    height: 550px;
+    width: 500px;
+    position: relative;
+    border: 2px solid rgba(255,255,255,.2);
+}
+
+
+td,th{
+    color: white;
+}
+
+
